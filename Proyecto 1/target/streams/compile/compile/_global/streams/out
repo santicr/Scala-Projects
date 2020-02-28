@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/src/main/scala/Prueba.scala:4:23: not found: type TarjetasCredito[0m
-[0m[[0m[31merror[0m] [0m[0m    var tarjeta = new TarjetasCredito()[0m
-[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/src/main/scala/main.scala:13:20: object hacerTarea is not a member of package compus[0m
+[0m[[0m[31merror[0m] [0m[0m    println(compus.hacerTarea(5))[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

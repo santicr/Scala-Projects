@@ -1,1 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/proyecto-1_2.12-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/proyecto-1_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/classes/compus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compus/PC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/classes/compus/PC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/classes/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santiago/Desktop/Todo/Semestre-IV/POO/Proyectos/Proyecto 1/target/scala-2.12/classes/main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
