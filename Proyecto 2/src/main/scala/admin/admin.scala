@@ -1,5 +1,5 @@
-package persona
-
+package admin
+import pelicula._
 import persona._
 
 class Admin(nombre : String, cedula : String, contra : String,
@@ -8,8 +8,10 @@ class Admin(nombre : String, cedula : String, contra : String,
 	//Atributos
 	
 	//Métodos
-	def crearPelicula(titulo : String, genero : String, duracion_min : Double) = {
-
+	def crearPelicula(titulo : String, genero : String, duracion : Double,
+	 codigo : String) : Pelicula = {
+		var nuevaPelicula = new Pelicula(titulo, genero, duracion, codigo);
+		return nuevaPelicula;
 	}
 
 	def eliminarPelicula(titulo : String) : Unit = {

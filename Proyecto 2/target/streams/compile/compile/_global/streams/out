@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/src/main/scala/admin/admin.scala:6:7: '.' expected but '(' found.[0m
-[0m[[0m[31merror[0m] [0m[0m	super(nombreNuevo : String, cedulaNueva : String,[0m
-[0m[[0m[31merror[0m] [0m[0m	     ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/src/main/scala/admin/admin.scala:11:1: identifier expected.[0m
-[0m[[0m[31merror[0m] [0m[0m	def crearPelicula(titulo : String, genero : String, duracion_min : Double) = {[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/src/main/scala/main.scala:6:15: not found: type Admin[0m
+[0m[[0m[31merror[0m] [0m[0m	var p2 = new Admin("Santiago", "1192907498", "123", 18, "santicr@");[0m
+[0m[[0m[31merror[0m] [0m[0m	             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
