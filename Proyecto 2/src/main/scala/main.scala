@@ -1,9 +1,23 @@
-import persona._
-import pelicula._
-import admin._
+import Usuario._
+import Pelicula._
+import Plan._
+import ModuloSistema._
 
 object main extends App{
-	var p1 = new Persona("Santiago", "321", "123", 18, "santicr@");
-	var p2 = new Admin("Santiago", "321", "123", 18, "santicr@");
-	var p3 = new Pelicula("Tu qcha en tanga", "Terror", 120, "123456")
+	var sis = new ModuloSistema();
+
+	var admin = new Usuario("Santiago", "1234", "321", "18", "santicr@", true);
+
+	var usuario = sis.RegistrarUsuario("Carlos", "123", "321", "19", "carlos@", false);
+
+	sis.CrearPelicula(true, "Hola", "Terror", 30, "123");
+
+	var s : Boolean = admin._esAdmin;
+
+	sis.CrearPelicula(s, "Hola2", "Terror", 30, "1231");
+
+	sis.EliminarPelicula(true, "Hola");
+
+	//sis.EliminarUsuario(true, "123");
+
 }

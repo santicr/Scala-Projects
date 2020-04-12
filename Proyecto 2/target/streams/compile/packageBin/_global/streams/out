@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/proyecto-2_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Usuario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Usuario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Usuario/Usuario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Usuario/Usuario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pelicula[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Pelicula[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pelicula/Pelicula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Pelicula/Pelicula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModuloSistema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/ModuloSistema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModuloSistema/ModuloSistema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/ModuloSistema/ModuloSistema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Plan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Plan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Plan/Plan.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santicr/Escritorio/Todo/Proyectos/Proyecto 2/target/scala-2.12/classes/Plan/Plan.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
