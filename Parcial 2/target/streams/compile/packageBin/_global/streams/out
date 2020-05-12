@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\parcial-2_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Administrador[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Administrador[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Administrador\Administrador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Administrador\Administrador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reserva[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Reserva[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Reserva\Reserva.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Reserva\Reserva.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Salon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Salon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Salon\Salon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Salon\Salon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sistema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Sistema[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sistema\Sistema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Sistema\Sistema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Usuario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Usuario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Usuario\Usuario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial 2\target\scala-2.12\classes\Usuario\Usuario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juand\Documents\Proyectos\Parcial 2\src\main\scala\main.scala:239:34: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.util.Try[Int][0m
+[0m[[0m[31merror[0m] [0m[0m required: Double[0m
+[0m[[0m[31merror[0m] [0m[0m											reserv._horaInicial = horaI;[0m
+[0m[[0m[31merror[0m] [0m[0m											                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
