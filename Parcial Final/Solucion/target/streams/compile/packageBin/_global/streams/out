@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\solucion_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Animal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal\Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Animal\Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gato[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Gato[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gato\Gato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Gato\Gato.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hamster[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Hamster[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hamster\Hamster.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Hamster\Hamster.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Perro[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Perro[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Perro\Perro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Perro\Perro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Veterinario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Veterinario[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Veterinario\Veterinario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Veterinario\Veterinario.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Visitante[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Visitante[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Visitante\Visitante.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\target\scala-2.12\classes\Visitante\Visitante.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

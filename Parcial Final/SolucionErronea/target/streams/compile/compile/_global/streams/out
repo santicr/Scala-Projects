@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juand\Documents\Proyectos\Parcial Final\SolucionErronea\src\main\scala\main.scala:13:14: value curar is not a member of Veterinario.Veterinario[0m
+[0m[[0m[31merror[0m] [0m[0m	veterinario.curar(gato);[0m
+[0m[[0m[31merror[0m] [0m[0m	            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

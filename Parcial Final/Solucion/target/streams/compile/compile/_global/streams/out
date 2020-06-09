@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\src\main\scala\Veterinario\Veterinario.scala:8:6: overriding method Visitar in trait Visitante of type (gato: Gato.Gato)Unit.type;[0m
+[0m[[0m[31merror[0m] [0m[0m method Visitar needs `override' modifier[0m
+[0m[[0m[31merror[0m] [0m[0m	def Visitar (gato : Gato){[0m
+[0m[[0m[31merror[0m] [0m[0m	    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\src\main\scala\Veterinario\Veterinario.scala:11:6: overriding method Visitar in trait Visitante of type (perro: Perro.Perro)Unit.type;[0m
+[0m[[0m[31merror[0m] [0m[0m method Visitar needs `override' modifier[0m
+[0m[[0m[31merror[0m] [0m[0m	def Visitar (perro : Perro){[0m
+[0m[[0m[31merror[0m] [0m[0m	    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juand\Documents\Proyectos\Parcial Final\Solucion\src\main\scala\Veterinario\Veterinario.scala:14:6: overriding method Visitar in trait Visitante of type (hamster: Hamster.Hamster)Unit.type;[0m
+[0m[[0m[31merror[0m] [0m[0m method Visitar needs `override' modifier[0m
+[0m[[0m[31merror[0m] [0m[0m	def Visitar (hamster : Hamster){[0m
+[0m[[0m[31merror[0m] [0m[0m	    ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
